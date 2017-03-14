@@ -62,7 +62,7 @@ public class CustomerRegister extends AppCompatActivity {
     Button register_done,btn_idcheck;
     EditText edittext;
 
-    //스피너
+    //스피너/
     //private String selectedArea = null;
 
 
