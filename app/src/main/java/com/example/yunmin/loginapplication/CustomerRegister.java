@@ -108,7 +108,7 @@ public class CustomerRegister extends AppCompatActivity {
 
                 dialogfragment.show(getFragmentManager(), "Theme 1");
 
-            }
+            }//테스트
 
         });
 
