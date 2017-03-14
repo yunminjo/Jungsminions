@@ -66,7 +66,7 @@ public class CustomerRegister extends AppCompatActivity {
     //private String selectedArea = null;
 
 
-    //테스트
+    //테스트 jungsminions
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
